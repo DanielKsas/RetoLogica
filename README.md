@@ -1,4 +1,15 @@
-# Evaluación de Lógica
+# Logic Lab: Diagnóstico Rápido de Programación 🧠⚙️
+
+## Objetivo general
+Diagnosticar el nivel actual de los estudiantes en pensamiento algorítmico y bases de programación, verificando que puedan:
+
+- Trabajar con **arreglos** (lectura, recorrido, generación de nuevos arreglos como inversión).
+- Usar correctamente **ciclos** (`for` / `while`) y **condicionales** (`if` / `else`) para comparar y tomar decisiones.
+- Aplicar **cálculos básicos** sobre datos: suma, promedio (con redondeo), máximo y mínimo.
+- Detectar patrones en secuencias (por ejemplo, **picos**) y reportar resultados de forma ordenada.
+- Estructurar una solución con **funciones** claras, separando responsabilidades y evitando código “espagueti”.
+- Manejar **casos borde** (n pequeño, empates, valores negativos, ausencia de picos) sin fallar.
+---
 
 Nota: La solución debe ser clara, modular (con funciones) y manejar casos borde.
 
