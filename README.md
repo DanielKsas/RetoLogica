@@ -70,7 +70,7 @@ Imprimir exactamente 4 líneas:
 - `0 ≤ precios[i], envio ≤ 10^9`
 - `cupon ∈ {NONE, DESC10, DESC20, FREESHIP}`
 ---
----
+
 ---
 ## Ejercicio 3 (Avanzado) 
 
@@ -114,6 +114,4 @@ Dado un arreglo de enteros `m[]` (mediciones), debes:
 - `1 ≤ n ≤ 100000`
 - `-10^9 ≤ m[i] ≤ 10^9`
 ---
-
-
 ---
